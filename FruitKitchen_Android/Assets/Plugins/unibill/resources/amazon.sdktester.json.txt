@@ -1,0 +1,65 @@
+{
+  "fruit_heart_v001_onsale": {
+    "itemType": "CONSUMABLE",
+    "description": "fruit_heart_v001_onsale",
+    "price": 0.99,
+    "smallIconUrl": "http://example.com",
+    "title": "fruit_heart_v001_onsale"
+  },
+  "fruit_bombupgrate_v001_onsale": {
+    "itemType": "CONSUMABLE",
+    "description": "fruit_bombupgrate_v001_onsale",
+    "price": 0.99,
+    "smallIconUrl": "http://example.com",
+    "title": "fruit_bombupgrate_v001_onsale"
+  },
+  "fruit_doublebomb_v001": {
+    "itemType": "CONSUMABLE",
+    "description": "fruit_doublebomb_v001",
+    "price": 0.99,
+    "smallIconUrl": "http://example.com",
+    "title": "fruit_doublebomb_v001"
+  },
+  "fruit_knifeerse_v001": {
+    "itemType": "CONSUMABLE",
+    "description": "fruit_knifeerse_v001",
+    "price": 0.99,
+    "smallIconUrl": "http://example.com",
+    "title": "fruit_knifeerse_v001"
+  },
+  "fruit_bombupgrate_v001": {
+    "itemType": "ENTITLED",
+    "description": "fruit_bombupgrate_v001",
+    "price": 0.99,
+    "smallIconUrl": "http://example.com",
+    "title": "fruit_bombupgrate_v001"
+  },
+  "fruit_move_v001": {
+    "itemType": "CONSUMABLE",
+    "description": "fruit_move_v001",
+    "price": 0.99,
+    "smallIconUrl": "http://example.com",
+    "title": "fruit_move_v001"
+  },
+  "fruit_heart_v001": {
+    "itemType": "CONSUMABLE",
+    "description": "fruit_heart_v001",
+    "price": 0.99,
+    "smallIconUrl": "http://example.com",
+    "title": "fruit_heart_v001"
+  },
+  "fruit_gold_v001": {
+    "itemType": "CONSUMABLE",
+    "description": "fruit_gold_v001",
+    "price": 0.99,
+    "smallIconUrl": "http://example.com",
+    "title": "fruit_gold_v001"
+  },
+  "stage_unlock_v001": {
+    "itemType": "CONSUMABLE",
+    "description": "stage_unlock_v001",
+    "price": 0.99,
+    "smallIconUrl": "http://example.com",
+    "title": "stage_unlock_v001"
+  }
+}

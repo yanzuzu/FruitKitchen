@@ -1,0 +1,10 @@
+﻿//id,StoreItemId,ItemName,ItemCount,ItunesId,IsOnSale
+1,1,金幣(15個一組),5,fruit_gold_v001,0
+2,2,愛心,20,fruit_heart_v001,0
+3,3,移動步數(5個一組),5,fruit_move_v001,0
+4,4,炸彈升級道具,8,fruit_bombupgrate_v001,0
+5,5,水果刀消除道具,10,fruit_knifeerse_v001,0
+6,8,雙次炸彈,8,fruit_doublebomb_v001,0
+7,4,炸彈升級道具,60,fruit_bombupgrate_v001_onsale,1
+8,2,愛心,100,fruit_heart_v001_onsale,1
+9,13,解鎖大關卡道具,30,stage_unlock_v001,0

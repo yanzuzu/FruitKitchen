@@ -1,0 +1,174 @@
+{
+  "iOSSKU": "102",
+  "macAppStoreSKU": "",
+  "androidBillingPlatform": "GooglePlay",
+  "GooglePlayPublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmsQvokirNpGQp6hxT1ApUwGsEG6o2xkY4hGgVDyGEYc3UVnWB10bokX05ESYFKgSohrXzDywMHETdY0b0kv+reJvXy+7jeTREuRUDL9m7pGiG84zSseoiLkQ2zzMTwc/6/MAOXxY33nCNN/PTB1giz+Puperj+lhALVqFBS3a3ZuRwjjmXLD9l3t2bEpVzoE8XVk+HUmLeMrKW90e/KQoNcQE8+lQWLGU8yQDqQL2tpPi5NNE2ziJNA+zCKQxRy5ygPdrfcKk1PZMoA9CXBmB1LuIgBzf/+MMpUK8+Zqz5lCEd2m2AfqBNYGr5lHFedrhybBrKQiQJssOWNLcRVJ6wIDAQAB",
+  "useAmazonSandbox": false,
+  "UseWP8MockingFramework": false,
+  "useHostedConfig": false,
+  "hostedConfigUrl": null,
+  "UseWin8_1Sandbox": false,
+  "samsungAppsMode": "PRODUCTION",
+  "samsungAppsItemGroupId": "",
+  "unibillAnalyticsAppId": "",
+  "unibillAnalyticsAppSecret": "",
+  "purchasableItems": {
+    "fruit_heart_v001_onsale": {
+      "@id": "fruit_heart_v001_onsale",
+      "@purchaseType": "Consumable",
+      "name": "fruit_heart_v001_onsale",
+      "description": "fruit_heart_v001_onsale",
+      "platforms": {
+        "GooglePlay": {
+          "priceInLocalCurrency": 30.0,
+          "defaultLocale": "zh_TW"
+        },
+        "AmazonAppstore": {},
+        "SamsungApps": {},
+        "AppleAppStore": {},
+        "MacAppStore": {},
+        "WindowsPhone8": {},
+        "Windows8_1": {},
+        "UnityEditor": {}
+      }
+    },
+    "fruit_bombupgrate_v001_onsale": {
+      "@id": "fruit_bombupgrate_v001_onsale",
+      "@purchaseType": "Consumable",
+      "name": "fruit_bombupgrate_v001_onsale",
+      "description": "fruit_bombupgrate_v001_onsale",
+      "platforms": {
+        "GooglePlay": {},
+        "AmazonAppstore": {},
+        "SamsungApps": {},
+        "AppleAppStore": {},
+        "MacAppStore": {},
+        "WindowsPhone8": {},
+        "Windows8_1": {},
+        "UnityEditor": {}
+      }
+    },
+    "fruit_doublebomb_v001": {
+      "@id": "fruit_doublebomb_v001",
+      "@purchaseType": "Consumable",
+      "name": "fruit_doublebomb_v001",
+      "description": "fruit_doublebomb_v001",
+      "platforms": {
+        "GooglePlay": {},
+        "AmazonAppstore": {},
+        "SamsungApps": {},
+        "AppleAppStore": {},
+        "MacAppStore": {},
+        "WindowsPhone8": {},
+        "Windows8_1": {},
+        "UnityEditor": {}
+      }
+    },
+    "fruit_knifeerse_v001": {
+      "@id": "fruit_knifeerse_v001",
+      "@purchaseType": "Consumable",
+      "name": "fruit_knifeerse_v001",
+      "description": "fruit_knifeerse_v001",
+      "platforms": {
+        "GooglePlay": {},
+        "AmazonAppstore": {},
+        "SamsungApps": {},
+        "AppleAppStore": {},
+        "MacAppStore": {},
+        "WindowsPhone8": {},
+        "Windows8_1": {},
+        "UnityEditor": {}
+      }
+    },
+    "fruit_bombupgrate_v001": {
+      "@id": "fruit_bombupgrate_v001",
+      "@purchaseType": "NonConsumable",
+      "name": "fruit_bombupgrate_v001",
+      "description": "fruit_bombupgrate_v001",
+      "platforms": {
+        "GooglePlay": {},
+        "AmazonAppstore": {},
+        "SamsungApps": {},
+        "AppleAppStore": {},
+        "MacAppStore": {},
+        "WindowsPhone8": {},
+        "Windows8_1": {},
+        "UnityEditor": {}
+      }
+    },
+    "fruit_move_v001": {
+      "@id": "fruit_move_v001",
+      "@purchaseType": "Consumable",
+      "name": "fruit_move_v001",
+      "description": "fruit_move_v001",
+      "platforms": {
+        "GooglePlay": {},
+        "AmazonAppstore": {},
+        "SamsungApps": {},
+        "AppleAppStore": {},
+        "MacAppStore": {},
+        "WindowsPhone8": {},
+        "Windows8_1": {},
+        "UnityEditor": {}
+      }
+    },
+    "fruit_heart_v001": {
+      "@id": "fruit_heart_v001",
+      "@purchaseType": "Consumable",
+      "name": "fruit_heart_v001",
+      "description": "fruit_heart_v001",
+      "platforms": {
+        "GooglePlay": {},
+        "AmazonAppstore": {},
+        "SamsungApps": {},
+        "AppleAppStore": {},
+        "MacAppStore": {},
+        "WindowsPhone8": {},
+        "Windows8_1": {},
+        "UnityEditor": {}
+      }
+    },
+    "fruit_gold_v001": {
+      "@id": "fruit_gold_v001",
+      "@purchaseType": "Consumable",
+      "name": "fruit_gold_v001",
+      "description": "fruit_gold_v001",
+      "platforms": {
+        "GooglePlay": {},
+        "AmazonAppstore": {},
+        "SamsungApps": {},
+        "AppleAppStore": {},
+        "MacAppStore": {},
+        "WindowsPhone8": {},
+        "Windows8_1": {},
+        "UnityEditor": {}
+      }
+    },
+    "stage_unlock_v001": {
+      "@id": "stage_unlock_v001",
+      "@purchaseType": "Consumable",
+      "name": "stage_unlock_v001",
+      "description": "stage_unlock_v001",
+      "platforms": {
+        "GooglePlay": {},
+        "AmazonAppstore": {},
+        "SamsungApps": {},
+        "AppleAppStore": {},
+        "MacAppStore": {},
+        "WindowsPhone8": {},
+        "Windows8_1": {},
+        "UnityEditor": {}
+      }
+    }
+  },
+  "currencies": {
+    "gold": {
+      "com.outlinegames.250goldcoins": 250.0,
+      "com.outlinegames.100goldcoins": 100.0
+    },
+    "silver": {
+      "com.outlinegames.unibill.silver.100": 100.0,
+      "com.outlinegames.unibill.silver.500": 500.0
+    }
+  }
+}

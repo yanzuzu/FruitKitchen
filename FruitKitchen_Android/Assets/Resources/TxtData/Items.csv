@@ -1,0 +1,14 @@
+﻿// Id,ItemName,ImageName,Effect,Desc
+1,金幣(15顆),Store_Item_Coin,1,金幣
+2,愛心,Store_Item_Heart,2,愛心
+3,移動次數(5步),Store_Item_Move,3,移動次數
+4,炸彈升級道具,Item_BombUpgrade,4,炸彈升級道具
+5,水果刀消除道具,Item_Erase_Knife,5,水果刀消除道具
+6,蟲洞道具,Item_WarmHole,6,蟲洞道具
+7,連線炸彈,Item_Connect_Bomb,7,連線炸彈
+8,雙次炸彈,Item_Double_Bomb,8,雙次炸彈
+9,閃電,Item_Lighting,9,閃電
+10,鏟子,Item_Shovel,10,鏟子
+11,引爆器,Item_Bomber,11,引爆器
+12,原子彈,Item_Atomic,12,原子彈
+13,解鎖道具,0,13,解鎖尚未解開的大關卡

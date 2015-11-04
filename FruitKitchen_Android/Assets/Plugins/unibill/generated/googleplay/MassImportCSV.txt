@@ -1,0 +1,10 @@
+Product ID,Published State,Purchase Type,Auto Translate,Locale; Title; Description,Auto Fill Prices,Price
+fruit_heart_v001_onsale,published,managed_by_android,false,"zh_TW;fruit_heart_v001_onsale;fruit_heart_v001_onsale",true,30000000
+fruit_bombupgrate_v001_onsale,published,managed_by_android,false,";fruit_bombupgrate_v001_onsale;fruit_bombupgrate_v001_onsale",true,0
+fruit_doublebomb_v001,published,managed_by_android,false,";fruit_doublebomb_v001;fruit_doublebomb_v001",true,0
+fruit_knifeerse_v001,published,managed_by_android,false,";fruit_knifeerse_v001;fruit_knifeerse_v001",true,0
+fruit_bombupgrate_v001,published,managed_by_android,false,";fruit_bombupgrate_v001;fruit_bombupgrate_v001",true,0
+fruit_move_v001,published,managed_by_android,false,";fruit_move_v001;fruit_move_v001",true,0
+fruit_heart_v001,published,managed_by_android,false,";fruit_heart_v001;fruit_heart_v001",true,0
+fruit_gold_v001,published,managed_by_android,false,";fruit_gold_v001;fruit_gold_v001",true,0
+stage_unlock_v001,published,managed_by_android,false,";stage_unlock_v001;stage_unlock_v001",true,0

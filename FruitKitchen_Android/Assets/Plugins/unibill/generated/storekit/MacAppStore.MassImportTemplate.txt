@@ -1,0 +1,10 @@
+SKU	Product ID	Reference Name	Type	Cleared For Sale	Wholesale Price Tier	Displayed Name	Description	Screenshot Path
+	fruit_heart_v001_onsale	fruit_heart_v001_onsale	Consumable	yes		fruit_heart_v001_onsale	fruit_heart_v001_onsale	
+	fruit_bombupgrate_v001_onsale	fruit_bombupgrate_v001_onsale	Consumable	yes		fruit_bombupgrate_v001_onsale	fruit_bombupgrate_v001_onsale	
+	fruit_doublebomb_v001	fruit_doublebomb_v001	Consumable	yes		fruit_doublebomb_v001	fruit_doublebomb_v001	
+	fruit_knifeerse_v001	fruit_knifeerse_v001	Consumable	yes		fruit_knifeerse_v001	fruit_knifeerse_v001	
+	fruit_bombupgrate_v001	fruit_bombupgrate_v001	Non-Consumable	yes		fruit_bombupgrate_v001	fruit_bombupgrate_v001	
+	fruit_move_v001	fruit_move_v001	Consumable	yes		fruit_move_v001	fruit_move_v001	
+	fruit_heart_v001	fruit_heart_v001	Consumable	yes		fruit_heart_v001	fruit_heart_v001	
+	fruit_gold_v001	fruit_gold_v001	Consumable	yes		fruit_gold_v001	fruit_gold_v001	
+	stage_unlock_v001	stage_unlock_v001	Consumable	yes		stage_unlock_v001	stage_unlock_v001	
