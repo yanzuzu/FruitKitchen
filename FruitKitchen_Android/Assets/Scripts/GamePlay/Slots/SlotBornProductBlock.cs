@@ -12,12 +12,7 @@ public class SlotBornProductBlock : SlotBornFieldItemBlock {
 	void Start () {
 		initSlot ();
 	}
-	
-	// Update is called once per frame
-	void Update () {
-	
-	}
-	
+
 	override public void initSlot()
 	{
 		base.initSlot ();

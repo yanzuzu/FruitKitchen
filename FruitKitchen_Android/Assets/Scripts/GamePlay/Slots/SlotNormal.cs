@@ -45,11 +45,6 @@ public class SlotNormal : SlotBase {
 			}
 		}
 	}
-	
-	// Update is called once per frame
-	void Update () {
-	
-	}
 
 	bool checkIfTheSameColor(int StartIndex, bool AtMid, int Dir,List< string > Array)
 	{

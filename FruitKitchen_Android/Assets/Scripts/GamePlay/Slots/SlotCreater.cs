@@ -7,11 +7,7 @@ public class SlotCreater : MonoBehaviour {
 
 	public GamePlayLayer	m_SlotMotherLayer;
 	public BlockManager		m_SlotMotherManager;
-	
-	// Update is called once per frame
-	void Update () {
-	
-	}
+
 
 	void Awake()
 	{

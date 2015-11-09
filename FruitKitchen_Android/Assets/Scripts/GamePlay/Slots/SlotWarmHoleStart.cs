@@ -9,11 +9,6 @@ public class SlotWarmHoleStart : SlotNormal {
 	void Start () {
 		initSlot ();
 	}
-	
-	// Update is called once per frame
-	void Update () {
-	
-	}
 
 	override public void initSlot()
 	{

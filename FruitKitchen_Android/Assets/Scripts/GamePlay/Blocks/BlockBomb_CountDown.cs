@@ -5,16 +5,6 @@ public class BlockBomb_CountDown : BlockBombBase {
 
 	public int		m_nCountDownNum;
 
-	// Use this for initialization
-	void Start () {
-	
-	}
-	
-	// Update is called once per frame
-	void Update () {
-	
-	}
-
 	override public void initBlock(int color)
 	{
 		base.initBlock (color);

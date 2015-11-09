@@ -7,15 +7,6 @@ public class BlockScore : BlockBase {
 	public bool isDoubleFreeFall = false;
 	public int moveNum = 0;
 
-	// Use this for initialization
-	void Start () {
-
-	}
-	
-	// Update is called once per frame
-	void Update () {
-	
-	}
 
 	public void setIsTrash()
 	{

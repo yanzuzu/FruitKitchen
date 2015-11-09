@@ -13,11 +13,6 @@ public class SlotBornBlock : SlotBase {
 		initSlot ();
 	}
 
-	// Update is called once per frame
-	void Update () {
-	
-	}
-
 	override public void initSlot()
 	{
 		base.initSlot ();

@@ -2181,22 +2181,22 @@ public class BlockManager : MonoBehaviour {
 
 		return null;
 
-		for(int i = 0; i < AllSlotMap.Count; i++)
-		{
-			SlotBase slot = AllSlotMap[i];
-
-			if(!slot)
-			{
-				continue;
-			}
-
-			if(slot.m_nSlotIndex == index)
-			{
-				return slot;
-			}
-		}
-
-		return null;
+//		for(int i = 0; i < AllSlotMap.Count; i++)
+//		{
+//			SlotBase slot = AllSlotMap[i];
+//
+//			if(!slot)
+//			{
+//				continue;
+//			}
+//
+//			if(slot.m_nSlotIndex == index)
+//			{
+//				return slot;
+//			}
+//		}
+//
+//		return null;
 	}
 
 	public SlotBase getSlot(int index, int dir)

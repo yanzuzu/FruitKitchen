@@ -24,16 +24,6 @@ public class BlockBombBase : BlockBase {
 
 	}
 
-	// Use this for initialization
-	void Start () {
-	
-	}
-	
-	// Update is called once per frame
-	void Update () {
-	
-	}
-
 	public void block_blockDoBomb(bool NeedEraseSelf)
 	{
 		if(!m_SlotMotherManager)

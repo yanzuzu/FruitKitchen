@@ -16,15 +16,6 @@ public class BlockCreater : MonoBehaviour {
 		Instance = this;
 	}
 
-	// Use this for initialization
-	void Start () {
-	
-	}
-	
-	// Update is called once per frame
-	void Update () {
-	
-	}
 
 	public void initGameObjects(GameObject gameObject)
 	{
